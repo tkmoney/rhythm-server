@@ -1,0 +1,33 @@
+{
+	"title": "Test Track",
+	"artist": "Test",
+	"file": "assets/game/tracks/test/test_trimmed.mp3",
+    "date_time": "4/19/2024 7:49:00 PM",
+	"notes_map":{
+		"x":[
+			{"start_time": 0},
+			{"start_time": 2},
+			{"start_time": 3},
+			{"start_time": 4}
+		],
+		"a":[
+			{"start_time": 1.5},
+			{"start_time": 2.5},
+			{"start_time": 3.5},
+			{"start_time": 4.5}
+
+		],
+		"y":[
+			{"start_time": 5.5},
+			{"start_time": 6.5},
+			{"start_time": 7.5},
+			{"start_time": 8.5},
+			{"start_time": 9.5}
+		],
+		"b":[
+			{"start_time": 12.5},
+			{"start_time": 13.5},
+			{"start_time": 14.5}
+		]
+	}
+}

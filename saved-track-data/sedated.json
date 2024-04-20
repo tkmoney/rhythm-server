@@ -1,0 +1,56 @@
+{
+	"title": "I Wanna Be Sedated",
+	"artist": "Ramones",
+	"file": "assets/game/tracks/sedated/sedated.mp3",
+    "date_time": "4/19/2024 7:20:00 PM",
+	"notes_map":{
+		"x":[
+			{"start_time": 0},
+			{"start_time": 2},
+			{"start_time": 3},
+			{"start_time": 4},
+			{"start_time": 5},
+			{"start_time": 6},
+			{"start_time": 7},
+			{"start_time": 8},
+			{"start_time": 9}
+		],
+		"a":[
+			{"start_time": 1.5},
+			{"start_time": 2.5},
+			{"start_time": 3.5},
+			{"start_time": 4.5},
+			{"start_time": 5.5},
+			{"start_time": 6.5},
+			{"start_time": 7.5},
+			{"start_time": 8.5},
+			{"start_time": 9.5}
+		],
+		"y":[
+			{"start_time": 10},
+			{"start_time": 11},
+			{"start_time": 12},
+			{"start_time": 13},
+			{"start_time": 14},
+			{"start_time": 15},
+			{"start_time": 16},
+			{"start_time": 17},
+			{"start_time": 18},
+			{"start_time": 19},
+			{"start_time": 20}
+		],
+		"b":[
+			{"start_time": 10.5},
+			{"start_time": 11.5},
+			{"start_time": 12.5},
+			{"start_time": 13.5},
+			{"start_time": 14.5},
+			{"start_time": 15.5},
+			{"start_time": 16.5},
+			{"start_time": 17.5},
+			{"start_time": 18.5},
+			{"start_time": 19.5},
+			{"start_time": 20.5}
+		]
+	}
+}
