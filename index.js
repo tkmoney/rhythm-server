@@ -4,6 +4,7 @@ const path = require('path');
 const fs = require('fs');
 const app = express();
 app.use(cors());
+app.set('trust proxy', true);
 const port = 3000;
 const savedTrackDataDir = path.join(__dirname, 'saved-track-data');
 
